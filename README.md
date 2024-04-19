@@ -1,4 +1,4 @@
-Sure, here is a concise README for your project:
+![Mistral AI and MongoDB Chatbot Logo](logo.png)
 
 ---
 
