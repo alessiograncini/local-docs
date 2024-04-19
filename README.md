@@ -1,8 +1,11 @@
 ![Mistral AI and MongoDB Chatbot Logo](logo.png)
-
+![Vector Database on Mongo DB](logo1.png)
+![Cool Feature Demo](images/gif.gif)
 ---
 
 # Mistral AI and MongoDB Chatbot Integration
+
+Source: https://www.mongodb.com/developer/products/mongodb/mistral-ai-integration/
 
 This project integrates Mistral AI's powerful language model with MongoDB to create a responsive chatbot that can answer queries based on the context provided from uploaded documents. The integration involves processing PDF documents, storing their contents as embeddings in MongoDB, and using those embeddings to fetch relevant context for generating responses to user queries.
 
@@ -17,6 +20,3 @@ This project integrates Mistral AI's powerful language model with MongoDB to cre
 
 Please make sure you have a file named `sample.pdf` in your project directory, or adjust the file path as needed when processing documents.
 
----
-
-This README gives a brief explanation of the purpose and the setup process for your project. It assumes that users have basic knowledge of environment variables and Python project setup. Adjust the steps as needed if your project has additional setup requirements.
