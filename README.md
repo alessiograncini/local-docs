@@ -1,6 +1,6 @@
 ![Mistral AI and MongoDB Chatbot Logo](logo.png)
 ![Vector Database on Mongo DB](logo1.png)
-![Cool Feature Demo](images/gif.gif)
+![Cool Feature Demo](gif.gif)
 ---
 
 # Mistral AI and MongoDB Chatbot Integration
